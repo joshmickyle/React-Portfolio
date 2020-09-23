@@ -1027,7 +1027,6 @@ a:visited {
   }
 
   .reasons-container {
-    align-self: flex-end;
     flex: 1 33%;
   }
 
